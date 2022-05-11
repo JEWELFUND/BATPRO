@@ -25,7 +25,7 @@ rm -rf BATPRO
 
 git clone https://github.com/JEWELFUND/BATPRO 
 cd BATPRO
-python2 MPG_enc.py
+python 
 
 ### RESULT
 
@@ -34,9 +34,9 @@ If everything is installed, all you have to do is run the script by typing the c
 
 ````bash
 
-cd $HOME/MPG_enc.py
+cd $HOME/
 
-python2 MPG_enc.py
+python 
 
 ````
 
